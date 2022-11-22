@@ -1,9 +1,12 @@
-# Project Templates
+Data Links:
+- Tweets: 
+1. https://ieee-dataport.org/open-access/stock-market-tweets-data
+2. https://www.kaggle.com/datasets/yash612/stockmarket-sentiment-dataset
 
-This repository contains a toy implementation of:
-* an (development) EDA, and
-* an updateable, reusable, report.
-  * automatically created HTML from notebooks
-  * code cells are stripped out
+- Financial News
 
-To run the repository, run `python run.py data eda`
+https://www.researchgate.net/publication/251231364_FinancialPhraseBank-v10
+
+same as
+
+https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news?resource=download
